@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xGoMuDYiX0j714NWUhQ/TDf2Y3PdNcWp+BEhgya+1WY=",
+  "Source": "AzureQueueStorageBankTransactions",
+  "BasePath": "_content/AzureQueueStorageBankTransactions",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
